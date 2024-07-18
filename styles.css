@@ -153,3 +153,36 @@ section.hero {
     margin-top: 10px;
 }
 
+/* signup section */
+
+
+.signup .signup-box,
+.signup-box button {
+    background-color: #3882f6;
+}
+
+.signup button {
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 5px 30px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.signup-box h2 {
+    color: #f9faf8;
+}
+
+.signup-box p {
+    color: #E5E7EB;
+}
+
+.signup-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    margin: 70px 0px;
+    border-radius: 5px;
+}
