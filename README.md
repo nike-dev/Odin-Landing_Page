@@ -4,4 +4,4 @@ This project is an attempt to recreate a pre-defined structure of an html page s
 Through the project, I intend to create a landing page while trying to achieve following things: 
 1. Practice and strength the basic foundations of html and css.
 2. Properly structure the DOM of the page, while applying relavant styling properties, while primarily using flexible box layout to place 
-and align various elements.≈
+and align various elements.
